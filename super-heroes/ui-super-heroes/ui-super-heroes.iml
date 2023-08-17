@@ -6,6 +6,9 @@
       <excludeFolder url="file://$MODULE_DIR$/src/main/webui/tmp" />
     </content>
   </component>
+  <component name="CheckStyle-IDEA-Module" serialisationVersion="2">
+    <option name="activeLocationsIds" />
+  </component>
   <component name="Quarkus Tools">
     <option name="hash" value="1971006608" />
     <option name="version" value="1" />

@@ -6,6 +6,9 @@
       <excludeFolder url="file://$MODULE_DIR$/super-heroes/ui-super-heroes/src/main/webui/tmp" />
     </content>
   </component>
+  <component name="CheckStyle-IDEA-Module" serialisationVersion="2">
+    <option name="activeLocationsIds" />
+  </component>
   <component name="SonarLintModuleSettings">
     <option name="uniqueId" value="182a313b-95ff-433a-96eb-742dab13834e" />
   </component>
