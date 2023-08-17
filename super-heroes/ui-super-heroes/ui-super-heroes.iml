@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$" dumb="true">
+      <excludeFolder url="file://$MODULE_DIR$/src/main/webui/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/webui/tmp" />
+    </content>
+  </component>
+  <component name="Quarkus Tools">
+    <option name="hash" value="1971006608" />
+    <option name="version" value="1" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="8e307705-3aa8-469a-b301-8d35a6b993c8" />
+  </component>
+</module>
