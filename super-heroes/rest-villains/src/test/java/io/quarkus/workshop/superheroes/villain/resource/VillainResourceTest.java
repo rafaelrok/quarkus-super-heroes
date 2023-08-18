@@ -1,4 +1,4 @@
-package io.quarkus.workshop.superheroes.villain;
+package io.quarkus.workshop.superheroes.villain.resource;
 
 import io.quarkus.test.junit.QuarkusTest;
 import io.quarkus.workshop.superheroes.villain.domain.Villain;
@@ -190,6 +190,15 @@ public class VillainResourceTest {
             .contentType(APPLICATION_JSON)
             .extract().body().as(getVillainTypeRef());
         assertEquals(NB_VILLAINS, villains.size());
+    }
+
+    @Test
+    void shouldPingOpenAPI() {
+        given()
+            .header(ACCEPT, JSON)
+            .when().get("/q/openapi")
+            .then()
+            .statusCode(OK.getStatusCode());
     }
 
     private TypeRef<List<Villain>> getVillainTypeRef() {

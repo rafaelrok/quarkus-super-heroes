@@ -9,12 +9,8 @@ Ysuper-heroes/ui-super-heroes/src/main/java/io/quarkus/workshop/superheroes/ui/C
 gsuper-heroes/rest-villains/src/test/java/io/quarkus/workshop/superheroes/villain/VillainResourceIT.java,1\f\1fa2acc4bb359fe7dca00c3ac233709e2b90bc60
 V
 &super-heroes/load-super-heroes/pom.xml,4\5\45c00f7bd601f0d1a2c31621b49b960c6ee1ae0d
-R
-"super-heroes/rest-villains/pom.xml,5\6\56def9e44c04fcf611b5af11856d25bce79bc09f
 ”
 dsuper-heroes/rest-villains/src/main/java/io/quarkus/workshop/superheroes/villain/domain/Villain.java,e\c\ec9979595a3b206073bd555f61c85d194aca1a28
-ž
-nsuper-heroes/rest-villains/src/main/java/io/quarkus/workshop/superheroes/villain/resource/VillainResource.java,f\3\f34be4cdbd1d012d48af5d43eb3f6f94c805985c
 h
 8super-heroes/rest-villains/src/main/resources/import.sql,c\3\c3f7cd4e018df22975b5bf881de0c0e9ab20ef11
 ™

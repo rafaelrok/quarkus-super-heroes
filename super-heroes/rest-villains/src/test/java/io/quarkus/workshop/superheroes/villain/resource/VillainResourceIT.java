@@ -1,4 +1,4 @@
-package io.quarkus.workshop.superheroes.villain;
+package io.quarkus.workshop.superheroes.villain.resource;
 
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 
