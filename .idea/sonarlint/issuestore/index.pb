@@ -5,12 +5,8 @@ Ysuper-heroes/ui-super-heroes/src/main/java/io/quarkus/workshop/superheroes/ui/C
 ^super-heroes/ui-super-heroes/src/main/java/io/quarkus/workshop/superheroes/ui/EnvResource.java,d\8\d81964adf422dba023e1198e58016b806b5ad927
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-—
-gsuper-heroes/rest-villains/src/test/java/io/quarkus/workshop/superheroes/villain/VillainResourceIT.java,1\f\1fa2acc4bb359fe7dca00c3ac233709e2b90bc60
 V
 &super-heroes/load-super-heroes/pom.xml,4\5\45c00f7bd601f0d1a2c31621b49b960c6ee1ae0d
-™
-isuper-heroes/rest-villains/src/test/java/io/quarkus/workshop/superheroes/villain/VillainResourceTest.java,c\e\cee040fd669cc3251fdce38d1b4698ef0b4e5412
 ”
 dsuper-heroes/rest-villains/src/main/java/io/quarkus/workshop/superheroes/villain/domain/Villain.java,e\c\ec9979595a3b206073bd555f61c85d194aca1a28
 h
@@ -25,3 +21,5 @@ j
 :super-heroes/infrastructure/docker-compose-app-remote.yaml,6\3\63f902524bd1e43eb1af284922ddcfe38ffc9e25
 _
 /super-heroes/infrastructure/docker-compose.yaml,2\5\25a8c6c51a357dbce46fd10d3ec0930dfb7244e4
+¡
+qsuper-heroes/rest-villains/src/main/java/io/quarkus/workshop/superheroes/villain/VillainApplicationLifeCycle.java,a\0\a03101a72bcfc731563bacdf49e3240a0accb532
