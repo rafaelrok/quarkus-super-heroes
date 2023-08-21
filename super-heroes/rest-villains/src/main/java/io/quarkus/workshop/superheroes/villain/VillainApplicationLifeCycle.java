@@ -15,20 +15,20 @@ public class VillainApplicationLifeCycle {
     private static final Logger LOGGER = Logger.getLogger(VillainApplicationLifeCycle.class);
 
     void onStart(@Observes StartupEvent ev) {
-        LOGGER.info("//   __     __  __  __  __            __                   ______   _______   ______");
-        LOGGER.info("//  /  |   /  |/  |/  |/  |          /  |                 /      \\ /       \\ /      |");
-        LOGGER.info("//  $$ |   $$ |$$/ $$ |$$ |  ______  $$/  _______        /$$$$$$  |$$$$$$$  |$$$$$$/");
-        LOGGER.info("//  $$ |   $$ |/  |$$ |$$ | /      \\ /  |/       \\       $$ |__$$ |$$ |__$$ |  $$ |");
-        LOGGER.info("//  $$  \\ /$$/ $$ |$$ |$$ | $$$$$$  |$$ |$$$$$$$  |      $$    $$ |$$    $$/   $$ |");
-        LOGGER.info("//   $$  /$$/  $$ |$$ |$$ | /    $$ |$$ |$$ |  $$ |      $$$$$$$$ |$$$$$$$/    $$ |");
-        LOGGER.info("//    $$ $$/   $$ |$$ |$$ |/$$$$$$$ |$$ |$$ |  $$ |      $$ |  $$ |$$ |       _$$ |_");
-        LOGGER.info("//     $$$/    $$ |$$ |$$ |$$    $$ |$$ |$$ |  $$ |      $$ |  $$ |$$ |      / $$   |");
-        LOGGER.info("//      $/     $$/ $$/ $$/  $$$$$$$/ $$/ $$/   $$/       $$/   $$/ $$/       $$$$$$/");
-        LOGGER.info("//");
-        LOGGER.info("//");
+        LOGGER.info("   __     __  __  __  __            __                   ______   _______   ______");
+        LOGGER.info("  /  |   /  |/  |/  |/  |          /  |                 /      \\ /       \\ /      |");
+        LOGGER.info("  $$ |   $$ |$$/ $$ |$$ |  ______  $$/  _______        /$$$$$$  |$$$$$$$  |$$$$$$/");
+        LOGGER.info("  $$ |   $$ |/  |$$ |$$ | /      \\ /  |/       \\       $$ |__$$ |$$ |__$$ |  $$ |");
+        LOGGER.info("  $$  \\ /$$/ $$ |$$ |$$ | $$$$$$  |$$ |$$$$$$$  |      $$    $$ |$$    $$/   $$ |");
+        LOGGER.info("   $$  /$$/  $$ |$$ |$$ | /    $$ |$$ |$$ |  $$ |      $$$$$$$$ |$$$$$$$/    $$ |");
+        LOGGER.info("    $$ $$/   $$ |$$ |$$ |/$$$$$$$ |$$ |$$ |  $$ |      $$ |  $$ |$$ |       _$$ |_");
+        LOGGER.info("     $$$/    $$ |$$ |$$ |$$    $$ |$$ |$$ |  $$ |      $$ |  $$ |$$ |      / $$   |");
+        LOGGER.info("      $/     $$/ $$/ $$/  $$$$$$$/ $$/ $$/   $$/       $$/   $$/ $$/       $$$$$$/");
+        LOGGER.info("");
+        LOGGER.info("");
         LOGGER.info("The application VILLAIN is starting with profile " + ConfigUtils.getProfiles());
-        LOGGER.info("//");
-        LOGGER.info("//");
+        LOGGER.info("");
+        LOGGER.info("");
     }
 
     void onStop(@Observes ShutdownEvent ev) {
