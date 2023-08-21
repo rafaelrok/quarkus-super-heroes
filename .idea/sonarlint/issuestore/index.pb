@@ -21,5 +21,3 @@ j
 :super-heroes/infrastructure/docker-compose-app-remote.yaml,6\3\63f902524bd1e43eb1af284922ddcfe38ffc9e25
 _
 /super-heroes/infrastructure/docker-compose.yaml,2\5\25a8c6c51a357dbce46fd10d3ec0930dfb7244e4
-¡
-qsuper-heroes/rest-villains/src/main/java/io/quarkus/workshop/superheroes/villain/VillainApplicationLifeCycle.java,a\0\a03101a72bcfc731563bacdf49e3240a0accb532
